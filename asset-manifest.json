@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lottery/static/css/main.73a84d3d.chunk.css",
-    "main.js": "/lottery/static/js/main.7d562226.chunk.js",
-    "main.js.map": "/lottery/static/js/main.7d562226.chunk.js.map",
+    "main.css": "/lottery/static/css/main.786d0e72.chunk.css",
+    "main.js": "/lottery/static/js/main.75765786.chunk.js",
+    "main.js.map": "/lottery/static/js/main.75765786.chunk.js.map",
     "runtime-main.js": "/lottery/static/js/runtime-main.2ccda5d4.js",
     "runtime-main.js.map": "/lottery/static/js/runtime-main.2ccda5d4.js.map",
     "static/js/2.1e88b075.chunk.js": "/lottery/static/js/2.1e88b075.chunk.js",
     "static/js/2.1e88b075.chunk.js.map": "/lottery/static/js/2.1e88b075.chunk.js.map",
     "index.html": "/lottery/index.html",
-    "precache-manifest.8b6136781a47e6059bcbf0dd296bdf11.js": "/lottery/precache-manifest.8b6136781a47e6059bcbf0dd296bdf11.js",
+    "precache-manifest.9e00b0c28c02dc2641f2b40c40397154.js": "/lottery/precache-manifest.9e00b0c28c02dc2641f2b40c40397154.js",
     "service-worker.js": "/lottery/service-worker.js",
-    "static/css/main.73a84d3d.chunk.css.map": "/lottery/static/css/main.73a84d3d.chunk.css.map"
+    "static/css/main.786d0e72.chunk.css.map": "/lottery/static/css/main.786d0e72.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.2ccda5d4.js",
     "static/js/2.1e88b075.chunk.js",
-    "static/css/main.73a84d3d.chunk.css",
-    "static/js/main.7d562226.chunk.js"
+    "static/css/main.786d0e72.chunk.css",
+    "static/js/main.75765786.chunk.js"
   ]
 }
