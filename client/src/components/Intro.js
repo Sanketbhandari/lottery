@@ -5,6 +5,8 @@ const Intro = () => {
   return (
     <>
       <ul className="list-group" id="list">
+    <h1 className="main">Welcome to Lottery Dapp</h1>
+
         <div className="center">
           <li className="list-group-item" aria-disabled="true">
             <h1>You are</h1>
