@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://sanketbhandari.github.io/lottery/",
   "private": true,
   "dependencies": {
     "@metamask/detect-provider": "^1.2.0",
